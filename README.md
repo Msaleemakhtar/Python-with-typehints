@@ -1,1 +1,1 @@
-# learn python language with typehints
+# Learn python language with typehints
